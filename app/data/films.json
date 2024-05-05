@@ -1,0 +1,32 @@
+{
+    "films": [
+        {
+            "title": "POOR THINGS (2023)",
+            "desc": "Critics Consensus: Wildly imaginative and exhilaratingly over the top, Poor Things is a bizarre, brilliant tour de force for director Yorgos Lanthimos and star Emma Stone.\nSynopsis: From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a... [More]\nStarring: Emma Stone, Willem Dafoe, Mark Ruffalo, Christopher Abbott\nDirected By: Yorgos Lanthimos",
+            "url": "https://resizing.flixster.com/_HdyT1Zs-1nqCoy4VHl25cIU29k=/fit-in/180x240/v2/https://resizing.flixster.com/U_RT77J5o2EfMC-DdAc7Dm8CkKY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNmM2FiYmJhLTFjYTgtNDljOC04MjQ4LTU1Yjg0M2NkNTdmZC5qcGc=",
+            "photo": "AgACAgIAAxkBAAOfZduNnnabdNvV1SWnHgZNcPtF83kAArfUMRtlsOFKS1BkS7tZxpMBAAMCAANtAAM0BA",
+            "rating": "92%"
+        },
+        {
+            "title": "MORBIUS (2022)",
+            "desc": "Critics Consensus: Cursed with uninspired effects, rote performances, and a borderline nonsensical story, this dreary mess is a vein attempt to make Morbius happen.\nSynopsis: One of the most compelling and conflicted characters in Sony Pictures Universe of Marvel Characters comes to the big screen... [More]\nStarring: Jared Leto, Matt Smith, Adria Arjona, Jared Harris\nDirected By: Daniel Espinosa",
+            "url": "https://www.rottentomatoes.com/m/morbius",
+            "photo": "AgACAgIAAxkBAAOrZduN2vF6FbNfvKYwpOWU6iUjB_MAArrUMRtlsOFKarypnQo2t9ABAAMCAANtAAM0BA",
+            "rating": "15%"
+        },
+        {
+            "title": "OPPENHEIMER (2023)",
+            "desc": "Critics Consensus: Oppenheimer marks another engrossing achievement from Christopher Nolan that benefits from Murphy's tour-de-force performance and stunning visuals.\nSynopsis: During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan... [More]\nStarring: Cillian Murphy, Emily Blunt, Robert Downey Jr., Matt Damon\nDirected By: Christopher Nolan",
+            "url": "https://www.rottentomatoes.com/m/oppenheimer_2023",
+            "photo": "AgACAgIAAxkBAAPqZduWfBfpL0w0OKviZXTMnojwZV8AAvTUMRtlsOFKl1dbQ0ihGDIBAAMCAANtAAM0BA",
+            "rating": "9.3/10"
+        },
+        {
+            "title": "\u0406\u0433\u0443\u0430\u043d\u0430",
+            "desc": "\u041a\u0440\u0443\u0442\u0438\u0439 \u0444\u0456\u043b\u044c\u043c",
+            "url": "https://iguana.com",
+            "photo": "AgACAgIAAxkBAAMyZggww4DCDvssErQEApIqik35w8UAAu3WMRsGWUBIwQ2iVt1BNpYBAAMCAAN5AAM0BA",
+            "rating": "5/10"
+        }
+    ]
+}
